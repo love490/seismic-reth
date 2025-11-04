@@ -1,0 +1,23 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <!-- Meta -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jane Doe – Seismic Role Candidate</title>
+  <meta name="description" content="Seismic Sales Enablement expert with 5+ years driving revenue enablement, content governance, and adoption." />  <!-- Open Graph -->  <meta property="og:title" content="Jane Doe – Seismic Role Candidate" />
+  <meta property="og:description" content="Seismic expert ready to supercharge your enablement strategy." />
+  <meta property="og:image" content="https://yourdomain.com/og-image.jpg" />
+  <meta property="og:url" content="https://yourdomain.com" />  <!-- Favicon -->  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌊</text></svg>">  <!-- Google Fonts -->  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">  <!-- Tailwind CSS -->  <script src="https://cdn.tailwindcss.com"></script>  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: { sans: ['Inter', 'sans-serif'] },
+          colors: { seismic: '#0066FF' }
+        }
+      }
+    }
+  </script>  <style>
+    .gradient-bg { background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); }
+    .card { transition: transform .2s, box-shadow .2s; }
+    .card:hover { transform: translateY(-4px); box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1); }
+  </style></head>
